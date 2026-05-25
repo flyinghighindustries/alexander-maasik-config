@@ -1,0 +1,9 @@
+{
+  "$id": "c_ctaEmailSubject",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "CTA Email Subject",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "string",
+  "type": { "stringType": { "stereotype": "SIMPLE" } }
+}

@@ -5,19 +5,29 @@
   "entityType": "location",
   "fields": [
     "c_tagline",
+    "c_heroEyebrow",
     "c_heroSubheadline",
     "c_heroPortrait",
+    "c_aboutMetaLabel",
     "c_aboutPhoto",
     "c_aboutBody",
+    "c_servicesIntro",
     "c_serviceTitles",
     "c_serviceBodies",
     "c_serviceEmailSubjects",
     "c_approachTitles",
     "c_approachBodies",
+    "c_workIntro",
     "c_caseClients",
     "c_caseResults",
     "c_caseBodies",
     "c_ctaHeadline",
-    "c_ctaBody"
+    "c_ctaBody",
+    "c_ctaEmailSubject",
+    "c_jobTitle",
+    "c_expertise",
+    "c_yearsExperience",
+    "c_favicon",
+    "c_ogImage"
   ]
 }
