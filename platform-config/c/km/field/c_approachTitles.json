@@ -2,6 +2,9 @@
   "$id": "c_approachTitles",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Approach Principle Titles",
+  "displayNameTranslations": [
+    { "localeCode": "et", "value": "Põhimõtete pealkirjad" }
+  ],
   "group": "NONE",
   "localization": "LOCALE_SPECIFIC",
   "typeId": "list",

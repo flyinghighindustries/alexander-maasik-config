@@ -2,6 +2,9 @@
   "$id": "c_caseClients",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Case Study - Client (Sector)",
+  "displayNameTranslations": [
+    { "localeCode": "et", "value": "Juhtum - klient (sektor)" }
+  ],
   "group": "NONE",
   "localization": "LOCALE_SPECIFIC",
   "typeId": "list",

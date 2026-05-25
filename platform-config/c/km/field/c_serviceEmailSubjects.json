@@ -2,6 +2,9 @@
   "$id": "c_serviceEmailSubjects",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Service Email Subjects",
+  "displayNameTranslations": [
+    { "localeCode": "et", "value": "Teenuste e-kirja teemad" }
+  ],
   "group": "NONE",
   "localization": "LOCALE_SPECIFIC",
   "typeId": "list",

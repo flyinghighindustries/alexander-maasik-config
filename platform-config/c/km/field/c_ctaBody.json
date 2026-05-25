@@ -2,6 +2,9 @@
   "$id": "c_ctaBody",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Closing CTA Body",
+  "displayNameTranslations": [
+    { "localeCode": "et", "value": "Lõpu kutse tekst" }
+  ],
   "group": "NONE",
   "localization": "LOCALE_SPECIFIC",
   "typeId": "string",

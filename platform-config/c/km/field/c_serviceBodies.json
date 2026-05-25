@@ -2,6 +2,9 @@
   "$id": "c_serviceBodies",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Service Bodies",
+  "displayNameTranslations": [
+    { "localeCode": "et", "value": "Teenuste kirjeldused" }
+  ],
   "group": "NONE",
   "localization": "LOCALE_SPECIFIC",
   "typeId": "list",

@@ -2,6 +2,9 @@
   "$id": "c_serviceTitles",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Service Titles",
+  "displayNameTranslations": [
+    { "localeCode": "et", "value": "Teenuste pealkirjad" }
+  ],
   "group": "NONE",
   "localization": "LOCALE_SPECIFIC",
   "typeId": "list",

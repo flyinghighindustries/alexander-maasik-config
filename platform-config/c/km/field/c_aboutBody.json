@@ -2,6 +2,9 @@
   "$id": "c_aboutBody",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "About Body",
+  "displayNameTranslations": [
+    { "localeCode": "et", "value": "Tutvustuse tekst" }
+  ],
   "group": "NONE",
   "localization": "LOCALE_SPECIFIC",
   "typeId": "string",
