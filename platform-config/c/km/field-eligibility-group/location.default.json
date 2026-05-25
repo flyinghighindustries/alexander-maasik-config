@@ -1,0 +1,23 @@
+{
+  "$id": "location.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Location Default",
+  "entityType": "location",
+  "fields": [
+    "c_tagline",
+    "c_heroSubheadline",
+    "c_heroPortrait",
+    "c_aboutPhoto",
+    "c_aboutBody",
+    "c_serviceTitles",
+    "c_serviceBodies",
+    "c_serviceEmailSubjects",
+    "c_approachTitles",
+    "c_approachBodies",
+    "c_caseClients",
+    "c_caseResults",
+    "c_caseBodies",
+    "c_ctaHeadline",
+    "c_ctaBody"
+  ]
+}

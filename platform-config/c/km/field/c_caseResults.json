@@ -1,0 +1,14 @@
+{
+  "$id": "c_caseResults",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Case Study - Headline Result",
+  "group": "NONE",
+  "localization": "LOCALE_SPECIFIC",
+  "typeId": "list",
+  "type": {
+    "listType": {
+      "typeId": "string",
+      "type": { "stringType": { "stereotype": "SIMPLE" } }
+    }
+  }
+}
