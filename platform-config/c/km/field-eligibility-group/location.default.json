@@ -28,6 +28,8 @@
     "c_expertise",
     "c_yearsExperience",
     "c_favicon",
-    "c_ogImage"
+    "c_ogImage",
+    "c_privacyPolicyContent",
+    "c_cookiesContent"
   ]
 }
