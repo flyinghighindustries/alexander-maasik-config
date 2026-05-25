@@ -2,11 +2,12 @@
   "$id": "c_ctaHeadline",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Closing CTA Headline",
-  "displayNameTranslations": [
-    { "localeCode": "et", "value": "Lõpu kutse pealkiri" }
-  ],
   "group": "NONE",
   "localization": "LOCALE_SPECIFIC",
   "typeId": "string",
-  "type": { "stringType": { "stereotype": "SIMPLE" } }
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
 }

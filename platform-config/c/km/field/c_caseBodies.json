@@ -2,16 +2,17 @@
   "$id": "c_caseBodies",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Case Study - Body",
-  "displayNameTranslations": [
-    { "localeCode": "et", "value": "Juhtum - kirjeldus" }
-  ],
   "group": "NONE",
   "localization": "LOCALE_SPECIFIC",
   "typeId": "list",
   "type": {
     "listType": {
       "typeId": "string",
-      "type": { "stringType": { "stereotype": "MULTILINE" } }
+      "type": {
+        "stringType": {
+          "stereotype": "MULTILINE"
+        }
+      }
     }
   }
 }

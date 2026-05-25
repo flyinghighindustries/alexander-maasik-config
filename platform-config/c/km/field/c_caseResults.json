@@ -2,16 +2,17 @@
   "$id": "c_caseResults",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Case Study - Headline Result",
-  "displayNameTranslations": [
-    { "localeCode": "et", "value": "Juhtum - tulemus" }
-  ],
   "group": "NONE",
   "localization": "LOCALE_SPECIFIC",
   "typeId": "list",
   "type": {
     "listType": {
       "typeId": "string",
-      "type": { "stringType": { "stereotype": "SIMPLE" } }
+      "type": {
+        "stringType": {
+          "stereotype": "SIMPLE"
+        }
+      }
     }
   }
 }

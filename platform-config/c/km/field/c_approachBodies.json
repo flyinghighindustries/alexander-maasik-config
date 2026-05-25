@@ -2,16 +2,17 @@
   "$id": "c_approachBodies",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Approach Principle Bodies",
-  "displayNameTranslations": [
-    { "localeCode": "et", "value": "Põhimõtete kirjeldused" }
-  ],
   "group": "NONE",
   "localization": "LOCALE_SPECIFIC",
   "typeId": "list",
   "type": {
     "listType": {
       "typeId": "string",
-      "type": { "stringType": { "stereotype": "MULTILINE" } }
+      "type": {
+        "stringType": {
+          "stereotype": "MULTILINE"
+        }
+      }
     }
   }
 }

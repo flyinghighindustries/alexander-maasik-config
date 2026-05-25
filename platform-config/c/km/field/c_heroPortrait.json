@@ -2,9 +2,6 @@
   "$id": "c_heroPortrait",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Hero Portrait",
-  "displayNameTranslations": [
-    { "localeCode": "et", "value": "Bänneri portreepilt" }
-  ],
   "group": "NONE",
   "localization": "LOCALE_SPECIFIC",
   "typeId": "image",

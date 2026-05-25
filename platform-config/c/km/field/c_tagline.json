@@ -2,11 +2,12 @@
   "$id": "c_tagline",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Tagline",
-  "displayNameTranslations": [
-    { "localeCode": "et", "value": "Loosung" }
-  ],
   "group": "NONE",
   "localization": "LOCALE_SPECIFIC",
   "typeId": "string",
-  "type": { "stringType": { "stereotype": "SIMPLE" } }
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  }
 }

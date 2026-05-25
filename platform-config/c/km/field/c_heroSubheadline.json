@@ -2,11 +2,12 @@
   "$id": "c_heroSubheadline",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Hero Subheadline",
-  "displayNameTranslations": [
-    { "localeCode": "et", "value": "Bänneri alapealkiri" }
-  ],
   "group": "NONE",
   "localization": "LOCALE_SPECIFIC",
   "typeId": "string",
-  "type": { "stringType": { "stereotype": "MULTILINE" } }
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  }
 }
